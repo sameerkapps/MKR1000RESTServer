@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For ExampleLibrary
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RESTServer    KEYWORD1
+RESTResourceBase    KEYWORD1
+RESTRequest    KEYWORD1
+RESTResponse    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+start KEYWORD2
+addRESTResource KEYWORD2
+processRequest KEYWORD2
+processGet KEYWORD2
+processPut KEYWORD2
+processPost KEYWORD2
+processDelete KEYWORD2
